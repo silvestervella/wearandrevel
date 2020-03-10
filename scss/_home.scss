@@ -1,0 +1,18 @@
+.revslider-initialised {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ccc9e2+0,ccc9e2+50,ffffff+50,ffffff+100 */
+background: #ccc9e2; /* Old browsers */
+background: -moz-linear-gradient(left,  #ccc9e2 0%, #ccc9e2 50%, #ffffff 50%, #ffffff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #ccc9e2 0%,#ccc9e2 50%,#ffffff 50%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #ccc9e2 0%,#ccc9e2 50%,#ffffff 50%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ccc9e2', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 */
+
+}
+
+
+.rb_button:before {
+    background-color: $second !important;
+}
+
+#sb_instagram svg:not(:root).svg-inline--fa {
+    filter: none;
+}
